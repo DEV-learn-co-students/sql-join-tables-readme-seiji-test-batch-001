@@ -1,0 +1,1 @@
+# sql-join-tables-readme-seiji-test-batch-001
